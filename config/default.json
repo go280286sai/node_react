@@ -1,0 +1,9 @@
+{
+  "email": "admin@admin.ua",
+  "port": 5000,
+  "mongoUri": "mongodb+srv://go280286sai:Ldflwfnmd0ctvm@cluster0.vja1slc.mongodb.net/?retryWrites=true&w=majority",
+  "mail_host": "sandbox.smtp.mailtrap.io",
+  "mail_port": 2525,
+  "mail_user": "d5499c92a8ddc2",
+  "mail_pass": "64bd4beb05f403"
+}
